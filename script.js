@@ -5,7 +5,7 @@ function firstChar(text) {
         return char;
     }
 }
-return ' ';
+return '';
 }
 
 // Do not change the code below
